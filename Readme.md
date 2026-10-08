@@ -31,7 +31,7 @@ This repository presents **D²-VLA**, a vision-language-action model that combin
 
 
 <p align="center">
-  <img src="image/intronew2.png" width="100%" alt="D²-VLA retains historical context and responds to moving objects.">
+  <img src="image/intronew4.png" width="100%" alt="D²-VLA retains historical context and responds to moving objects.">
 </p>
 
 ---
